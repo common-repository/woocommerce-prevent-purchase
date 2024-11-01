@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce - Prevent Purchase\n"
+"POT-Creation-Date: 2015-03-19 16:38-0600\n"
+"PO-Revision-Date: 2015-03-19 16:38-0600\n"
+"Last-Translator: Andrew Munro, Sumobi <andrew@sumobi.com>\n"
+"Language-Team: Andrew Munro <support@sumobi.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/class-activation.php:47
+msgid "This plugin"
+msgstr ""
+
+#: ../includes/class-activation.php:82
+msgid " requires WooCommerce. Please activate it to continue."
+msgstr ""
+
+#: ../includes/class-activation.php:85
+msgid " requires WooCommerce. Please install it to continue."
+msgstr ""
+
+#: ../woocommerce-prevent-purchase.php:70
+#: ../woocommerce-prevent-purchase.php:82
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ../woocommerce-prevent-purchase.php:163
+msgid "This product cannot be purchased."
+msgstr ""
+
+#: ../woocommerce-prevent-purchase.php:188
+msgid "Prevent Purchase"
+msgstr ""
+
+#: ../woocommerce-prevent-purchase.php:200
+msgid "Prevent Purchase Message"
+msgstr ""
